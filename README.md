@@ -33,14 +33,15 @@ Mein Projekt ist ein Nummerratspiel bei dem man eine zuffällige Zahl eraten kan
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| 1.2  |              |         |                   |
-| 1.3  |              |         |                   |
-| 1.4  |              |         |                   |
-| 1.5  |              |         |                   |
-| 1.6  |              |         |                   |
+| TC-№ | Ausgangslage | Eingabe      | Erwartete Ausgabe                                                                        |
+| ---- | ------------ | ------------ | -----------------------------------------------------------------------------------------|
+| 1.1  |  Console App | Zahl + Enter                        |  Das Spiel geht weiter                                            |
+| 1.2  |  Console App |   -                                 |   -                                                               |
+| 1.3  |  Console App |  Benutzer aktiviert ein Timer       |     Timer wird aktiviert                                          |
+| 1.4  |  Console App | Zahl + Enter                        |   Wenn die Zahl richtig ist "Gut gemacht du hast die richtige Zahl|
+| 1.5  |  Console App |   -                                 | Wenn die Zahl höher ist schreib Zahl muss höher sein.             |
+| 1.6  |  Console App | Wenn falsch geraten ist             |   Erneut raten können                                             |
+| 1.7  |  Console App |y/n                                  |  Hardmode activated                                               |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
