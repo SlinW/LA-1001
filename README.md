@@ -81,7 +81,9 @@ Total:
 | 4.A  | 01.09.2022      |   Ich        |    30min           |  ca 30min              |
 | 5.A  | 01.09.2022      |   Ich        |    1h              |     1h                 |
 | 6.A  | 01.09.2022      |   Ich        |    30min           |     1.5h               |
-
+| 6.A  | 01.09.2022      |   Ich        |    30min           |     1.5h               |
+| 2.A  | 08.09.2022      |   Ich        |    1h              |     2h                 |
+| 2.b  | 08.09.2022      |   Ich        |    1h              |     1h                 |
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
