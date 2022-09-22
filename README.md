@@ -11,7 +11,7 @@
 | 01.09.2022      | 2       | Angefangen mit Programmieren.   |
 | 08.09.2022      | 3       | Weiter mit Programmiernen.      |
 | 15.09.2022      | 4       | Weiter mit Programmiernen.      |
-| 22.09.2022      | 5       | ....                            |
+| 22.09.2022      | 5       | Abschliessen                    |
 
 
 ## 1 Informieren
