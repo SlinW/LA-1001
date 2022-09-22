@@ -33,15 +33,15 @@ Mein Projekt ist ein Nummerratspiel bei dem man eine zuffällige Zahl eraten kan
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe      | Erwartete Ausgabe                                                                        |
-| ---- | ------------ | ------------ | -----------------------------------------------------------------------------------------|
+| TC-№ | Ausgangslage | Eingabe                             | Erwartete Ausgabe                                                 |
+| ---- | ------------ | ----------------------------------- | ------------------------------------------------------------------|
 | 1.1  |  Console App | Zahl + Enter                        |  Das Spiel geht weiter                                            |
-| 1.2  |  Console App |   -                                 |   -                                                               |
-| 1.3  |  Console App |  Benutzer aktiviert ein Timer       |     Timer wird aktiviert                                          |
-| 1.4  |  Console App | Zahl + Enter                        |   Wenn die Zahl richtig ist "Gut gemacht du hast die richtige Zahl|
-| 1.5  |  Console App |   -                                 | Wenn die Zahl höher ist schreib Zahl muss höher sein.             |
-| 1.6  |  Console App | Wenn falsch geraten ist             |   Erneut raten können                                             |
-| 1.7  |  Console App |y/n                                  |  Hardmode activated                                               |
+| 2.1  |  Console App |   -                                 |   -                                                               |
+| 3.1  |  Console App |  Benutzer aktiviert ein Timer       |  Timer wird aktiviert                                             |
+| 4.1  |  Console App | Zahl + Enter                        |  Wenn die Zahl richtig ist "Gut gemacht du hast die richtige Zahl"|
+| 5.1  |  Console App |   -                                 |  Wenn die Zahl höher ist schreib Zahl muss höher sein.            |
+| 6.1  |  Console App | Wenn falsch geraten ist             |  Erneut raten können                                              |
+| 7.1  |  Console App |y/n                                  |  Hardmode activated                                               |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -90,19 +90,17 @@ Total:
 
 ### 5.1 Testprotokoll
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| TC-№ | Datum      | Resultat                           | Tester                |
+| ---- | -----------| -----------------------------------|-----------------------|
+| 1.1  | 22.09.2022 | Das Spiel geht weiter              | Nils Wiederkehr       |
+| 2.1  | 22.09.2022 | Das Spiel sieht farbig aus         | Nils Wiederkehr       |
+| 3.1  | 22.09.2022 | Funktioniert nicht                 | Nils Wiederkehr       |
+| 4.1  | 22.09.2022 | Glückwunsch sie haben die Zahl     | Nils Wiederkehr       |
+| 5.1  | 22.09.2022 | "Zahl muss höher sein"             | Nils Wiederkehr       |
+| 6.1  | 22.09.2022 | Das Spiel kann neu gestartet werden| Nils Wiederkehr       |
+| 7.1  | 22.09.2022 | Kein Hardmode                      | Nils Wiederkehr       |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+Das Spiel läuft gut, es hat nur keinen Hardmode und keinen Timer, man kann das Spiel aber einwandfrei spielen.
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
