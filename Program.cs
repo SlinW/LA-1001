@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 
 
@@ -109,7 +109,7 @@ namespace Numberguessinggame
                 response = Console.ReadLine();
 
                 response = response.ToUpper();
-
+                w
 
 
                 if (response == "Y")
